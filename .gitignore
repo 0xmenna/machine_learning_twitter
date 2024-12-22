@@ -136,4 +136,4 @@ $RECYCLE.BIN/
 *.sav
 
 # TwitterParsed Dataset
-dataset/
+TwitterParsed/

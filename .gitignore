@@ -137,3 +137,6 @@ $RECYCLE.BIN/
 
 # TwitterParsed Dataset
 TwitterParsed/
+
+# Tuning Directory
+Tuning/

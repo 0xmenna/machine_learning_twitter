@@ -140,3 +140,6 @@ TwitterParsed/
 
 # Tuning Directory
 Tuning/
+
+# GloVe Embeddings
+GloVe/
